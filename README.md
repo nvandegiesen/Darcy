@@ -18,5 +18,4 @@ water.jpg: Sketch of set-up<br>
 <br>
 K_measurement.mp4: Movie of the original experiment
 
-Run [Jupyter notebook]
-(https://mybinder.org/v2/gh/nvandegiesen/Darcy/master?filepath=Darcy_at_home_Part3.ipynb) interactivley online in Binder.
+Run [Jupyter notebook](https://mybinder.org/v2/gh/nvandegiesen/Darcy/master?filepath=Darcy_at_home_Part3.ipynb) interactivley online in Binder.
